@@ -104,7 +104,7 @@
 - анализ динамики метрик;
 - подготовка итогового отчета в форматах **PBIX и PDF**.
 
-[Посмотреть Power BI отчёт](Power BI/Power_BI_part.pdf)
+[Посмотреть Power BI отчёт](Power_BI/Power_BI_part.pdf)
 
 ---
 
